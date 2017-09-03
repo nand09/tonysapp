@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  rate: 
+  hoursaweek: 
+  subtotal: 
+  fourpercent: 
+  total: 
+
+two:
+  name: MyString
+  rate: 
+  hoursaweek: 
+  subtotal: 
+  fourpercent: 
+  total: 
